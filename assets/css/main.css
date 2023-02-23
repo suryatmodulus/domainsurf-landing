@@ -20,7 +20,7 @@ a {
 
 .img-banner {
   width: 100%;
-  margin: 20px auto;
+  margin: 0px auto;
 }
 
 .wrapper {
@@ -102,29 +102,9 @@ a {
   color: rgba(0, 0, 0, 0.9);
 }
 
-.social-icons {
-  position: absolute;
-  padding: 2px;
-  margin: 10px 0px;
-  right: 10px;
-  top: 0;
-  text-align: center;
-  font-size: 14px;
-  display: grid;
-  place-items: center;
-  cursor: pointer;
-}
-
-.link-text {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-
 @media (min-width: 920px) {
   .img-banner {
-    width: 80vw;
-    margin: 20px auto;
+    width: 500px;
   }
 
   .grid-container {
