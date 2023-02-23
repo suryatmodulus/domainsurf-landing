@@ -21,7 +21,6 @@ a {
 .img-banner {
   width: 100vw;
   margin-top: 20px;
-  margin-bottom: 50px;
 }
 
 .wrapper {
@@ -106,8 +105,8 @@ a {
 .social-icons {
   position: absolute;
   padding: 2px;
-  margin: 15px 0px;
-  right: 15px;
+  margin: 20px 0px;
+  right: 20px;
   top: 0;
   text-align: center;
   font-size: 16px;
