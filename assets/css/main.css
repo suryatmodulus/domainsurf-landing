@@ -19,7 +19,7 @@ a {
 }
 
 .img-banner {
-  width: 100%;
+  width: 100vw;
   margin: 0px auto;
 }
 
@@ -104,7 +104,7 @@ a {
 
 @media (min-width: 920px) {
   .img-banner {
-    width: 420px;
+    width: 480px;
   }
 
   .grid-container {
